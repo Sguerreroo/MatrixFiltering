@@ -125,7 +125,7 @@
       <SubComponents>
         <Component class="javax.swing.JLabel" name="matrixDimensionLabel">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Dimensi&#xf3;n Matrix Cuadrada:"/>
+            <Property name="text" type="java.lang.String" value="Dimensi&#xf3;n Matriz Cuadrada:"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="minimumMatrixValueLabel">

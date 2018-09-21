@@ -113,7 +113,7 @@ public class MainWindow extends javax.swing.JFrame {
 
         matrixConfigurationFieldsPanel.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
 
-        matrixDimensionLabel.setText("Dimensión Matrix Cuadrada:");
+        matrixDimensionLabel.setText("Dimensión Matriz Cuadrada:");
 
         minimumMatrixValueLabel.setText("Valor Mínimo Matriz:");
 
