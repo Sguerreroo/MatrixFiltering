@@ -211,6 +211,7 @@ public class MainWindow extends javax.swing.JFrame {
 
         matrixPanel.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
 
+        matrixTextArea.setEditable(false);
         matrixTextArea.setColumns(20);
         matrixTextArea.setRows(5);
         matrixScrollPane.setViewportView(matrixTextArea);
